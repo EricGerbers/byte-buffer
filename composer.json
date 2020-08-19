@@ -1,5 +1,5 @@
 {
-    "name": "faustbrian/byte-buffer",
+    "name": "ericgerbers/byte-buffer",
     "description": "A fast and simple ByteBuffer implementation using SplFixedArray.",
     "keywords": ["byte", "buffer", "pack", "unpack", "binary", "hex"],
     "license": "MIT",
